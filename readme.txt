@@ -2,9 +2,9 @@
 Contributors: patternswp, codersantosh
 Tags: maintenance mode, coming soon, page builder, under construction, unavailable page
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6.20
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,16 @@ Temporarily set your maintenance page as the homepage by navigating to WordPress
 8. Coming soon, maintenance or under construction page
 
 == Changelog ==
+
+= 1.0.5 =
+* Added: Tested with the latest WordPress
+* Added: RTL support
+* Updated: Plugin URL
+* Updated: Author links
+* Updated: Contributors links
+* Updated: [Atomic CSS](https://github.com/codersantosh/atomic-css)
+* Updated: npm packages
+* Fixed: Admin Notices Hidden by Sticky Header on Plugin Settings Page
 
 = 1.0.4 =
 * Updated: Author

@@ -50,7 +50,7 @@ The 'Coming Soon and Maintenance Mode Page' plugin comes with a collection of in
 
 - **Coming Soon and Maintenance:** Within the Patterns tab, find the category labeled "Coming Soon and Maintenance." This categorization ensures a quick and efficient search for the patterns tailored to your needs.
 
-- **Insert a Pattern:** Click on one of the pattern to insert it directly into your edit content area. 
+- **Insert a Pattern:** Click on one of the pattern to insert it directly into your edit content area.
 
 - **Modify as Needed:** The inserted pattern serves as a starter template. Customize it effortlessly to align with your specific requirements. Modify text, colors, and any other elements to ensure your Coming Soon or Maintenance Mode page reflects your unique style.
 
@@ -63,7 +63,7 @@ Now that you have the 'Coming Soon and Maintenance Mode Page' plugin installed, 
 
 ## Features
 
-- **WP React Plugin Boilerplate:** Developed using the [WP React Plugin Boilerplate](https://github.com/codersantosh/wp-react-plugin-boilerplate) for a structured and efficient development process.
+- **WP React Plugin Boilerplate:** Developed using the [WP React Plugin Boilerplate](https://patternswp.com//wp-react-plugin-boilerplate) for a structured and efficient development process.
 
 - **Atrc Integration:** Incorporates [Atrc (atrc) - Atomic React Components](https://www.npmjs.com/package/atrc) for efficient React API, State and Component management, providing developers with a scalable and maintainable structure.
 
@@ -117,13 +117,14 @@ Thank you for contributing to this project!
 
 ## Authors
 
+- **PatternsWP** - [patternswp](https://patternswp.com/)
 - **Santosh Kunwar** - [codersantosh](https://twitter.com/codersantosh)
 
 See also the list of [contributors](https://github.com/codersantosh/acme-coming-soon/graphs/contributors) who participated in this project.
 
 ## Resources
 
-- [WP React Plugin Boilerplate](https://github.com/codersantosh/wp-react-plugin-boilerplate)
+- [WP React Plugin Boilerplate](https://patternswp.com//wp-react-plugin-boilerplate)
 - [Atrc (atrc) - Atomic React Components](https://www.npmjs.com/package/atrc)
 
 ## License & Attribution
